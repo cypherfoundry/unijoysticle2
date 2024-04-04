@@ -58,3 +58,4 @@ If you are looking for ready-to-use boards, you can purchase one from here:
 
 Ref:
 PS2 https://gamesx.com/controldata/psxcont/psxcont.htm
+https://store.curiousinventor.com/guides/PS2
