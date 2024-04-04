@@ -55,3 +55,6 @@ If you are looking for ready-to-use boards, you can purchase one from here:
 
 
 [license]: ../../LICENSE
+
+Ref:
+PS2 https://gamesx.com/controldata/psxcont/psxcont.htm
